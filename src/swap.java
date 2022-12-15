@@ -1,3 +1,6 @@
+//Java Program to Swap Two Numbers
+//URL https://www.geeksforgeeks.org/java-programming-examples/
+
 import java.util.*;
 class swap {
     public static void main(String args[]){
